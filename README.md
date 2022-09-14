@@ -1,7 +1,5 @@
 # GraingerCodeChallenge
 
-
-## Grainger Code Challenge
 ## Scalable ML Solution
 ## Christian Ruiz
 
